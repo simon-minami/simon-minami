@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A recent grad looking for full time opportunities in machine learning and data science</h3>
 
-- 🔭 I’m currently working on **a basketball player detection and tracking pipeline**
+- 🔭 I’m currently working on **a basketball player detection and tracking pipeline for CBB Analytics**
+
+- 📫 How to reach me **simon.sho.minami@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KJ67w1ivd4M7oTI9o7o1StS0KYjXq3Kt/view?usp=sharing](https://drive.google.com/file/d/1KJ67w1ivd4M7oTI9o7o1StS0KYjXq3Kt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
