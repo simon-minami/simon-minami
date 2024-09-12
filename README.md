@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A recent grad looking for full time opportunities in machine learning and data science</h3>
 
-- 🔭 I’m currently working on **a basketball player detection and tracking pipeline for CBB Analytics**
+- 🔭 I’m currently working on **a basketball player detection and tracking pipeline at [CBB Analytics](https://cbbanalytics.com/)**
 
 - 📫 How to reach me **simon.sho.minami@gmail.com**
 
